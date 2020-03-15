@@ -3,9 +3,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.workfusion.lab</groupId>
-        <artifactId>ml-sdk-lessons</artifactId>
-        <version>1.0</version>
+        <groupId>com.workfusion.ml</groupId>
+        <artifactId>hypermodel-parent</artifactId>
+        <version>9.2.0.11</version>
     </parent>
 
     <groupId>com.workfusion.lab</groupId>
