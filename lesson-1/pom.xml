@@ -6,6 +6,7 @@
         <groupId>com.workfusion.ml</groupId>
         <artifactId>hypermodel-parent</artifactId>
         <version>9.2.0.11</version>
+        <relativePath>../Devops-hackathon/pom.xml</relativePath>
     </parent>
 
     <groupId>com.workfusion.lab</groupId>
